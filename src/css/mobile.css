@@ -1,6 +1,11 @@
 
+@media (max-width: 1440px) {
+    .area1--img1 {
+        height: 500px;
+    }
+}
 
-@media (min-width: 769px) and (max-width: 1440px) {
+@media (min-width: 769px) and (max-width: 1140px) {
     .container {
         padding-left: 20px;
         padding-right: 20px;
@@ -23,7 +28,7 @@
     }
 }
 
-@media (min-width: 426px) and (max-width: 768px) {
+@media (min-width: 441px) and (max-width: 768px) {
     .container {
         padding-left: 20px;
         padding-right: 20px;
@@ -42,7 +47,7 @@
     }
 
     .area3 {
-        grid-template-columns: 1fr;
+        grid-template-columns: 2fr 3fr;
     }
 
     .area3--content {
@@ -55,7 +60,7 @@
 
 }
 
-@media (max-width: 428px) {
+@media (max-width: 440px) {
 
     .container {
         padding-left: 20px;
