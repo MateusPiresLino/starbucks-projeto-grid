@@ -113,7 +113,7 @@ header .line {
     background-size:cover;
     background-repeat: no-repeat;
     padding-top: 90px;
-    padding-bottom: 90px;
+    padding-bottom: 270px;
 }
 
 .banner--images {
@@ -147,7 +147,7 @@ header .line {
 }
 
 .area1--img1 {
-    height: 350px;
+    height: 650px;
     background-image: url(../images/f2.jpg);
     background-size: cover;
     background-position: center;
@@ -176,7 +176,7 @@ header .line {
 }
 
 .area2--img1 {
-    height: 450px;
+    height: 900px;
     background-image: url(../images/f4.jpg);
     background-size: cover;
     background-position: center;
@@ -196,7 +196,7 @@ header .line {
 }
 
 .area3--content {
-    padding: 200px 80px;
+    padding: 650px 80px;
     background-image: url(../images/bg2.jpg);
     background-size: cover;
     background-position: left;
@@ -215,12 +215,12 @@ header .line {
 
 .area4 {
    display: grid;
-   grid-template-columns: 450px 1fr;
+   grid-template-columns: 700px 1fr;
    background-color: #e8e9ee;
 }
 
 .area4--content {
-    padding: 150px 80px;
+    padding: 450px 80px;
 }
 
 .area4--text {
@@ -236,7 +236,7 @@ header .line {
 }
 
 footer {
-    font-size: 16px;
+    font-size: 12px;
     background-color: #333;
     color: #fff;
     padding: 80px;

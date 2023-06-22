@@ -1,37 +1,25 @@
-@media (min-width: 1580px) and (max-width: 3000px) {
 
-    .banner {
-        background-position: top;
-        padding-top: 200px;
-        padding-bottom: 300px;
-    }
 
-    .banner--images img {
-        width: 230px;
-        height: auto;
-    }
-
-    .area1--img1 {
-        height: 850px;
-    }
-
-    .area2--img1 {
-        height: 900px;
-    }
-
-    .area3--content {
-        padding: 550px 80px;
-    }
-
-    .area4--content {
-        padding: 450px 80px;
-    }
-}
-
-@media (min-width: 769px) and (max-width: 1140px) {
+@media (min-width: 769px) and (max-width: 1440px) {
     .container {
         padding-left: 20px;
         padding-right: 20px;
+    }
+
+    .area1--img1 {
+        height: 350px;
+    }
+
+    .area2--img1 {
+        height: 450px;
+    }
+
+    .area3--content {
+        padding: 350px 80px;
+    }
+
+    .area4--content {
+        padding: 80px 80px;
     }
 }
 
@@ -50,11 +38,19 @@
     }
 
     .area2 {
-        grid-template-columns: 2fr 3fr;
+        grid-template-columns: 1fr;
     }
 
     .area3 {
-        grid-template-columns: 3fr 2fr;
+        grid-template-columns: 1fr;
+    }
+
+    .area3--content {
+        padding: 150px 80px;
+    }
+
+    .area4--content {
+        padding: 150px 80px;
     }
 
 }
@@ -108,6 +104,10 @@
 
     .area1--img1 {
         height: 220px;
+    }
+
+    .area2--img1 {
+        height: 450px;
     }
 
     footer {
