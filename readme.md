@@ -8,6 +8,6 @@ Este projeto foi feito visando o objetivo de praticar Grid. Sua estrutura está 
 
 3 - Nas outras áreas vamos seguir o padrão, display grid e grid-template-column.
 
-obs: não esqueça de fazer a responsividade para dispositivos moveis e aqui alguns elementos foram retirados, pois fazia uma poluição visual e por isso não fazia sentido mate-los. 
+obs: não esqueça de fazer a responsividade para dispositivos moveis e aqui alguns elementos foram retirados, pois fazia uma poluição visual e por isso não fazia sentido mantê-los. 
 
 Portanto, o objetivo é a prática do Grid e foi um excelente exercício, para quem está começando eu super recomendo.
